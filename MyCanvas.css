@@ -1,0 +1,35 @@
+
+  
+  body{
+
+    background-image: url("https://i0.wp.com/i.pinimg.com/originals/5a/0a/f4/5a0af4503166230b667650dfd3223c26.jpg");
+    background-position: center;
+    background-size: cover;
+
+    cursor: pointer;
+  }
+  h1
+  {
+      color: rgb(0, 0, 0); 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #ffffff;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
